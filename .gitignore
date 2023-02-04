@@ -21,5 +21,4 @@ autodoc
 out
 
 # clojars
-pom.xml
 *clojars.org
